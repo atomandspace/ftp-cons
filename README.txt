@@ -1,1 +1,1 @@
-program for verifying the FTP consistency information
+program to verify ftp consistency
